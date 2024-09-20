@@ -1,13 +1,14 @@
 project:
   type: website
-
 website:
-  title: "website"
+  title: "Scuola di Specializzazione in Malattie Infettive e Tropicali"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - lecture1.qmd
+      - lecture2.qmd
 
 format:
   html:

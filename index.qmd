@@ -1,5 +1,5 @@
 ---
-title: "website"
+title: "Core curriculum: Antibiotic therapy"
 ---
 
 This is a Quarto website.

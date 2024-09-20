@@ -1,0 +1,10 @@
+---
+title: "Antibiotic Principles"
+---
+
+
+<div>
+```{=html}
+<iframe class="slide-deck" src="https://russlewisbo.github.io/antibioticprinciples/#/lecture-1-principles-of-antibiotic-therapy"width="960" height="500" data-external="1"></iframe>
+```
+</div>
